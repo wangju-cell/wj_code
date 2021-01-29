@@ -1,0 +1,88 @@
+[I 2020-12-22 19:34:00] concurrency model: async
+[I 2020-12-22 19:34:00] masquerade (NAT) address: None
+[I 2020-12-22 19:34:00] passive ports: 2000->2332
+[I 2020-12-22 19:34:00] >>> starting FTP server on 0.0.0.0:21, pid=5268 <<<
+[I 2020-12-22 19:37:31] 192.168.0.108:59329-[] FTP session opened (connect)
+[I 2020-12-22 19:37:53] 192.168.0.108:59329-[user] USER 'user' logged in.
+[I 2020-12-22 19:43:59] 192.168.0.108:59329-[user] Control connection timed out.
+[I 2020-12-22 19:43:59] 192.168.0.108:59329-[user] FTP session closed (disconnect).
+[I 2020-12-22 19:48:44] 127.0.0.1:59410-[] FTP session opened (connect)
+[I 2020-12-22 19:48:44] 127.0.0.1:59410-[user] USER 'user' logged in.
+[I 2020-12-22 19:48:44] 127.0.0.1:59410-[user] CWD d:\test 550 'No such file or directory.'
+[I 2020-12-22 19:48:44] 127.0.0.1:59410-[user] FTP session closed (disconnect).
+[I 2020-12-22 19:49:30] 127.0.0.1:59413-[] FTP session opened (connect)
+[I 2020-12-22 19:49:30] 127.0.0.1:59413-[user] USER 'user' logged in.
+[I 2020-12-22 19:49:30] 127.0.0.1:59413-[user] CWD d:\test 550 'No such file or directory.'
+[I 2020-12-22 19:49:30] 127.0.0.1:59413-[user] FTP session closed (disconnect).
+[I 2020-12-22 19:58:13] 127.0.0.1:59820-[] FTP session opened (connect)
+[I 2020-12-22 19:58:13] 127.0.0.1:59820-[user] USER 'user' logged in.
+[I 2020-12-22 19:58:13] 127.0.0.1:59820-[user] CWD d:\test 550 'No such file or directory.'
+[I 2020-12-22 19:58:13] 127.0.0.1:59820-[user] FTP session closed (disconnect).
+[I 2020-12-22 19:58:36] 127.0.0.1:59828-[] FTP session opened (connect)
+[I 2020-12-22 19:58:36] 127.0.0.1:59828-[user] USER 'user' logged in.
+[I 2020-12-22 19:58:36] 127.0.0.1:59828-[user] CWD d:\test 550 'No such file or directory.'
+[I 2020-12-22 19:58:37] 127.0.0.1:59828-[user] FTP session closed (disconnect).
+[I 2020-12-22 19:58:47] 127.0.0.1:59833-[] FTP session opened (connect)
+[I 2020-12-22 19:58:47] 127.0.0.1:59833-[user] USER 'user' logged in.
+[I 2020-12-22 19:58:47] 127.0.0.1:59833-[user] CWD d:\test 550 'No such file or directory.'
+[I 2020-12-22 19:58:47] 127.0.0.1:59833-[user] FTP session closed (disconnect).
+[I 2020-12-22 19:59:54] 127.0.0.1:59849-[] FTP session opened (connect)
+[I 2020-12-22 19:59:54] 127.0.0.1:59849-[user] USER 'user' logged in.
+[I 2020-12-22 19:59:54] 127.0.0.1:59849-[user] CWD d:\:\Users\Administrator\Desktop\python 550 'Invalid argument.'
+[I 2020-12-22 19:59:54] 127.0.0.1:59849-[user] FTP session closed (disconnect).
+[I 2020-12-22 20:00:08] 127.0.0.1:59854-[] FTP session opened (connect)
+[I 2020-12-22 20:00:08] 127.0.0.1:59854-[user] USER 'user' logged in.
+[I 2020-12-22 20:00:08] 127.0.0.1:59854-[user] CWD d:\:\Users\Administrator\Desktop\python 550 'Invalid argument.'
+[I 2020-12-22 20:00:08] 127.0.0.1:59854-[user] FTP session closed (disconnect).
+[I 2020-12-22 20:02:42] 127.0.0.1:60092-[] FTP session opened (connect)
+[I 2020-12-22 20:02:42] 127.0.0.1:60092-[user] USER 'user' logged in.
+[I 2020-12-22 20:02:42] 127.0.0.1:60092-[user] CWD d:\:\Users\Administrator\Desktop\python\test 550 'Invalid argument.'
+[I 2020-12-22 20:02:42] 127.0.0.1:60092-[user] FTP session closed (disconnect).
+[I 2020-12-22 20:03:45] 127.0.0.1:60181-[] FTP session opened (connect)
+[I 2020-12-22 20:03:45] 127.0.0.1:60181-[user] USER 'user' logged in.
+[I 2020-12-22 20:03:45] 127.0.0.1:60181-[user] CWD d:\:\Users\Administrator\Desktop\python\test 550 'Invalid argument.'
+[I 2020-12-22 20:03:45] 127.0.0.1:60181-[user] FTP session closed (disconnect).
+[I 2020-12-22 20:05:53] 127.0.0.1:60379-[] FTP session opened (connect)
+[I 2020-12-22 20:05:53] 127.0.0.1:60379-[user] USER 'user' logged in.
+[I 2020-12-22 20:05:53] 127.0.0.1:60379-[user] CWD d:\:\Users\Administrator\Desktop\python\test 550 'Invalid argument.'
+[I 2020-12-22 20:05:53] 127.0.0.1:60379-[user] FTP session closed (disconnect).
+[I 2020-12-22 20:06:29] 127.0.0.1:60390-[] FTP session opened (connect)
+[I 2020-12-22 20:06:29] 127.0.0.1:60390-[user] USER 'user' logged in.
+[I 2020-12-22 20:06:29] 127.0.0.1:60390-[user] CWD d:\:\Users\Administrator\Desktop\python\test 550 'Invalid argument.'
+[I 2020-12-22 20:06:29] 127.0.0.1:60390-[user] FTP session closed (disconnect).
+[I 2020-12-22 20:09:54] 127.0.0.1:60501-[] FTP session opened (connect)
+[I 2020-12-22 20:09:54] 127.0.0.1:60501-[user] USER 'user' logged in.
+[I 2020-12-22 20:09:54] 127.0.0.1:60501-[user] CWD d:\test 250
+[I 2020-12-22 20:09:54] 127.0.0.1:60501-[user] FTP session closed (disconnect).
+[I 2020-12-22 20:11:47] 127.0.0.1:60530-[] FTP session opened (connect)
+[I 2020-12-22 20:11:47] 127.0.0.1:60530-[user] USER 'user' logged in.
+[I 2020-12-22 20:11:47] 127.0.0.1:60530-[user] CWD d:\test 250
+[I 2020-12-22 20:11:47] 127.0.0.1:60530-[user] FTP session closed (disconnect).
+[I 2020-12-22 20:14:31] 127.0.0.1:60552-[] FTP session opened (connect)
+[I 2020-12-22 20:14:31] 127.0.0.1:60552-[user] USER 'user' logged in.
+[I 2020-12-22 20:14:31] 127.0.0.1:60552-[user] CWD d:\test 250
+[I 2020-12-22 20:14:31] 127.0.0.1:60552-[user] FTP session closed (disconnect).
+[I 2020-12-22 20:15:37] 127.0.0.1:60569-[] FTP session opened (connect)
+[I 2020-12-22 20:15:37] 127.0.0.1:60569-[user] USER 'user' logged in.
+[I 2020-12-22 20:15:37] 127.0.0.1:60569-[user] CWD d:\test 250
+[I 2020-12-22 20:15:37] 127.0.0.1:60569-[user] RETR d:\test\123.txt completed=1 bytes=50 seconds=0.0
+[I 2020-12-22 20:15:37] 127.0.0.1:60569-[user] STOR d:\test\ftpserver.py completed=1 bytes=1647 seconds=0.0
+[I 2020-12-22 20:15:37] 127.0.0.1:60569-[user] FTP session closed (disconnect).
+[I 2020-12-22 20:18:43] 127.0.0.1:60596-[] FTP session opened (connect)
+[I 2020-12-22 20:18:43] 127.0.0.1:60596-[user] USER 'user' logged in.
+[I 2020-12-22 20:18:43] 127.0.0.1:60596-[user] CWD d:\test 250
+[I 2020-12-22 20:18:43] 127.0.0.1:60596-[user] RETR d:\test\123.txt completed=1 bytes=50 seconds=0.0
+[I 2020-12-22 20:18:43] 127.0.0.1:60596-[user] STOR d:\test\ftpserver.py completed=1 bytes=1647 seconds=0.0
+[I 2020-12-22 20:18:43] 127.0.0.1:60596-[user] FTP session closed (disconnect).
+[I 2020-12-22 20:19:50] 127.0.0.1:60615-[] FTP session opened (connect)
+[I 2020-12-22 20:19:50] 127.0.0.1:60615-[user] USER 'user' logged in.
+[I 2020-12-22 20:19:50] 127.0.0.1:60615-[user] CWD d:\test 250
+[I 2020-12-22 20:19:50] 127.0.0.1:60615-[user] RETR d:\test\123.txt completed=1 bytes=50 seconds=0.0
+[I 2020-12-22 20:19:50] 127.0.0.1:60615-[user] STOR d:\test\ftpserver.py completed=1 bytes=1647 seconds=0.016
+[I 2020-12-22 20:19:50] 127.0.0.1:60615-[user] FTP session closed (disconnect).
+[I 2020-12-22 20:20:30] 127.0.0.1:60625-[] FTP session opened (connect)
+[I 2020-12-22 20:20:30] 127.0.0.1:60625-[user] USER 'user' logged in.
+[I 2020-12-22 20:20:30] 127.0.0.1:60625-[user] CWD d:\test 250
+[I 2020-12-22 20:20:30] 127.0.0.1:60625-[user] RETR d:\test\123.txt completed=1 bytes=50 seconds=0.0
+[I 2020-12-22 20:20:30] 127.0.0.1:60625-[user] STOR d:\test\ftpserver.py completed=1 bytes=1647 seconds=0.0
+[I 2020-12-22 20:20:30] 127.0.0.1:60625-[user] FTP session closed (disconnect).

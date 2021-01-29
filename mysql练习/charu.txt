@@ -1,0 +1,36 @@
+insert into emp(name,age,dep_name,dep_location) values('张三',20,'研发部','广州');
+insert into emp(name,age,dep_name,dep_location) values('李四',21,'研发部','广州');
+insert into emp(name,age,dep_name,dep_location) values('王五',20,'研发部','广州');
+
+insert into emp(name,age,dep_name,dep_location) values('老王',20,'销售部','深圳');
+insert into emp(name,age,dep_name,dep_location) values('大王',22,'销售部','深圳');
+insert into emp(name,age,dep_name,dep_location) values('小王',18,'销售部','深圳');
+
+mysql> create table emp(
+    -> id int primary key auto_increment,name varchar(50),
+    -> age int,
+    -> dep_name varchar(30),dep_location varchar(30)
+    -> );
+
+create table employee(
+	id int primary key auto_increment,
+	name varchar(20),
+	age int,
+	dep_id int
+);
+
+create table department(
+	id int primary key auto_increment,
+	dep_name varchar(30),
+	dep_location varchar(20)
+);
+
+insert into department values(null,'研发部','广州'),(null,'销售部','深圳');
+
+insert into employee(name,age,dep_id) values('李四',21,1);
+insert into employee(name,age,dep_id) values('王五',20,1);
+insert into employee(name,age,dep_id) values('大王',20,2);
+insert into employee(name,age,dep_id) values('老王',22,2);
+insert into employee(name,age,dep_id) values('小王',18,2);
+
+

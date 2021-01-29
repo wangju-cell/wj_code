@@ -1,0 +1,18 @@
+<breakfirst_menu year="2018">
+    <food>
+        <name>Belgian Waffles</name>
+        <prices>$5.95</prices>
+        <description>
+        two of our famous belgian waffles with plenty of real maple syrup
+        </description>
+        <calories>750</calories>
+    </food>
+    <food>
+        <name>strawbeery belgian waffle</name>
+        <prices>%66.6</prices>
+        <description>
+        light belgian waffles coverd with strawberry and whipped cream
+        </description>
+        <calories>1050</calories>
+    </food>
+</breakfirst_menu>

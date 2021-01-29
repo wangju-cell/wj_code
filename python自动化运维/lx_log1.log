@@ -1,0 +1,5 @@
+2020-12-20 15:24:25 20201220logging 模块的配置和使用.py [line:13] DEBUG debug message
+2020-12-20 15:24:25 20201220logging 模块的配置和使用.py [line:14] INFO info message
+2020-12-20 15:24:25 20201220logging 模块的配置和使用.py [line:15] WARNING warn message
+2020-12-20 15:24:25 20201220logging 模块的配置和使用.py [line:16] ERROR error message
+2020-12-20 15:24:25 20201220logging 模块的配置和使用.py [line:17] CRITICAL critical message
